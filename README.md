@@ -1,5 +1,7 @@
 # Simple start with Nix Home Manager with Flakes
 
+[한국어](./README_ko.md)
+
 **Do not click around. Read this guide in order. Do all the steps. You'll thank
 me later. See bottom of this readme for the starting link.**
 
