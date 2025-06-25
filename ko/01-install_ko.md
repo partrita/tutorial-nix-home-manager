@@ -1,6 +1,6 @@
 # 01 - Nix 및 Home Manager 설치
 
-[<- README_ko.md](README_ko.md) | [02 - 기본 리포지토리 설정 ->](02-basic-repository-setup_ko.md)
+[<- README_ko.md](./README_ko.md) | [02 - 기본 리포지토리 설정 ->](./02-basic-repository-setup_ko.md)
 
 ## Nix 설치하기
 
@@ -60,4 +60,4 @@ home-manager --version
 
 성공했나요? 좋습니다! 이제 Home Manager가 설치되었습니다.
 
-[다음으로!](02-basic-repository-setup_ko.md)
+[다음으로!](./02-basic-repository-setup_ko.md)

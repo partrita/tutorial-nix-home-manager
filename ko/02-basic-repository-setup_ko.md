@@ -1,6 +1,6 @@
 # 02 - 간단한 Flake로 기본 리포지토리 만들기
 
-[<- 01-install_ko.md](./01-install_ko.md) | [03 - 설명: 기본 Nix 구문 및 flake.nix 입력 ->](./03-explain-inputs_ko.md)
+[<- ./01-install_ko.md](./01-install_ko.md) | [03 - 설명: 기본 Nix 구문 및 flake.nix 입력 ->](./03-explain-inputs_ko.md)
 
 
 ## Flake란 무엇인가?
@@ -217,7 +217,7 @@ Nix는 롤백을 위해 의도적으로 이전 세대를 유지하기 때문에,
 
 ## 문제 해결
 
-여전히 문제가 있다면, 현재 파일들을 [./02-basic/](./02-basic/)에 있는 파일과 비교하여 누락된 것이 없는지 확인해 보세요.
+여전히 문제가 있다면, 현재 파일들을 [../02-basic/](./02-basic_README_ko.md)에 있는 파일과 비교하여 누락된 것이 없는지 확인해 보세요.
 
 
 ## 요약

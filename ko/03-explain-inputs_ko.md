@@ -1,6 +1,6 @@
 # 03 - 설명: 기본 Nix 구문 및 flake.nix 입력
 
-[<- 02 - 기본 리포지토리 설정](./02-basic-repository-setup_ko.md) | [04 - 설명: flake.nix 출력 함수 ->](./04-explain-outputs-function_ko.md)
+[<- ./02-basic-repository-setup_ko.md](./02-basic-repository-setup_ko.md) | [04 - 설명: flake.nix 출력 함수 ->](./04-explain-outputs-function_ko.md)
 
 첫 번째 Home Manager Flake 설정을 완료하고 저와 함께해 주셔서 감사합니다! 그 노고에 대한 보상으로, 이제 우리가 설정한 모든 것들을 실제로 파헤쳐서 설명해 드릴게요. 작동하는 예시와 함께 맥락을 이해하는 것이 정말 중요하니까요.
 

@@ -1,6 +1,6 @@
 # 04 - 설명: Flake.nix 출력 함수 구문
 
-[<- 03 - 설명: 기본 Nix 구문 및 flake.nix 입력](./03-explain-inputs_ko.md) | [05 - 설명: Flake.nix 출력 함수 본문 ->](./05-explain-outputs-body_ko.md)
+[<- ./03-explain-inputs_ko.md](./03-explain-inputs_ko.md) | [05 - 설명: Flake.nix 출력 함수 본문 ->](./05-explain-outputs-body_ko.md)
 
 지난 섹션에서는 몇 가지 기본적인 Nix 구문과 `description` 및 `inputs` 속성에 대해 살펴보았습니다.
 
@@ -11,7 +11,7 @@
   * **`inputs` 속성**이 임의의 속성을 가진 Nix 속성 집합이라는 것
 
 
-[만약 그렇지 않다면, 이전 섹션으로 돌아가세요.](./03-checkpoint-explanation_ko.md)
+[만약 그렇지 않다면, 이전 섹션으로 돌아가세요.](../03-explain-inputs_ko.md#지금까지의-요약)
 
 이제 더 복잡한 **`outputs` 속성**을 다루어 보겠습니다. 더 많은 Nix 구문을 배워야 하므로, 새로운 구문과 이것이 `outputs` 속성에 어떻게 적용되는지 사이를 오가며 설명할 거예요. 내부의 `homeConfigurations` 속성은 다음 섹션으로 미루고, 이번에는 이 몇 줄 안에 많은 일이 일어나고 있으므로 외부 부분에만 집중할 것입니다.
 

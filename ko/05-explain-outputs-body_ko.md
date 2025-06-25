@@ -1,6 +1,6 @@
 # 05 - 설명: Flake.nix 출력 함수 본문
 
-[<- 설명: Flake.nix 출력 함수 구문](04-explain-outputs-function_ko.md)| [설명: Home.nix ->](06-explain-home-nix_ko.md)
+[<- 설명: Flake.nix 출력 함수 구문](./04-explain-outputs-function_ko.md)| [설명: Home.nix ->](./06-explain-home-nix_ko.md)
 
 지난 섹션에서는 `flake.nix`의 **`outputs`** 속성을 처음 살펴보았습니다. 이제 다음을 이해해야 합니다:
 
